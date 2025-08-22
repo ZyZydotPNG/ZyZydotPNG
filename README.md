@@ -28,10 +28,12 @@ Durante os projetos, explorei diferentes linguagens e ferramentas, como:
 ## 🤝 Contribuições
 Este repositório é focado em estudos pessoais. Sugestões são sempre bem-vindas, mas o objetivo principal é documentar minha evolução.  
 
-
+<div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZyZydotPNG&show_icons=true&theme=synthwave)
 
+
+</div>
 
 ---
 
