@@ -1,16 +1,41 @@
-## Hi there 👋
+# 🎓 Projetos da Faculdade de Programação
 
-<!--
-**ZyZydotPNG/ZyZydotPNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu repositório! 🚀  
+Aqui você encontrará os projetos, exercícios e trabalhos práticos desenvolvidos durante minha jornada acadêmica na faculdade de Programação.  
 
-Here are some ideas to get you started:
+O objetivo deste repositório é registrar minha evolução na área de desenvolvimento de software e servir como portfólio pessoal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tecnologias Utilizadas
+Durante os projetos, explorei diferentes linguagens e ferramentas, como:
+- C / C++
+- Java
+- Python
+- JavaScript
+- SQL  
+*(e outras conforme o curso avançar)*
+
+---
+
+## 🎯 Objetivo
+- Consolidar conhecimentos adquiridos em sala de aula  
+- Praticar lógica de programação e boas práticas de desenvolvimento  
+- Criar um portfólio acadêmico acessível  
+
+---
+
+## 🤝 Contribuições
+Este repositório é focado em estudos pessoais. Sugestões são sempre bem-vindas, mas o objetivo principal é documentar minha evolução.  
+
+---
+
+## 📌 Observação
+Todos os projetos foram desenvolvidos **com fins acadêmicos** e podem conter versões simplificadas ou experimentais de sistemas.
+
+
+
+
+
+
+(https://github-readme-stats.vercel.app/api?username=zyzydotpng)](https://github.com/zyzydotpng/github-readme-stats)
