@@ -37,5 +37,3 @@ Todos os projetos foram desenvolvidos **com fins acadêmicos** e podem conter ve
 
 
 
-
-https://github-readme-stats.vercel.app/api?username=zyzydotpng)](https://github.com/zyzydotpng/github-readme-stats
