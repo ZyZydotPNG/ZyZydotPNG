@@ -34,7 +34,6 @@ Este repositório é focado em estudos pessoais. Sugestões são sempre bem-vind
 Todos os projetos foram desenvolvidos **com fins acadêmicos** e podem conter versões simplificadas ou experimentais de sistemas.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZyZydotPNG)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
+(https://github-readme-stats.vercel.app/api?username=ZyZydotPNG&show_icons=true&theme=synthwave)
 
 
