@@ -29,10 +29,10 @@ Durante os projetos, explorei diferentes linguagens e ferramentas, como:
 Este repositório é focado em estudos pessoais. Sugestões são sempre bem-vindas, mas o objetivo principal é documentar minha evolução.  
 
 <div>
+            
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
-</div>
 
-            <i class="devicon-html5-plain colored"></i>
+</div>
           
 ---
 
