@@ -30,7 +30,7 @@ Este repositório é focado em estudos pessoais. Sugestões são sempre bem-vind
 
 <div>
             
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZyZydotPNG&show_icons=true&theme=synthwave)
 
 </div>
 
