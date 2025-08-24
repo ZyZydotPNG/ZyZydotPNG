@@ -46,3 +46,18 @@ Este repositório é focado em estudos pessoais. Sugestões são sempre bem-vind
 
 ## 📌 Observação
 Todos os projetos foram desenvolvidos **com fins acadêmicos** e podem conter versões simplificadas ou experimentais de sistemas.
+
+---
+
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZyZydotPNG/ZyZydotPNG/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZyZydotPNG/ZyZydotPNG/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZyZydotPNG/ZyZydotPNG/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+
+
+
+
