@@ -32,6 +32,8 @@ Este repositório é focado em estudos pessoais. Sugestões são sempre bem-vind
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZyZydotPNG&show_icons=true&theme=synthwave)
 </div>
 
+            <i class="devicon-html5-plain colored"></i>
+          
 ---
 
 ## 📌 Observação
