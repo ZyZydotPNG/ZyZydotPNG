@@ -47,6 +47,13 @@ Este repositório é focado em estudos pessoais. Sugestões são sempre bem-vind
 ## 📌 Observação
 Todos os projetos foram desenvolvidos **com fins acadêmicos** e podem conter versões simplificadas ou experimentais de sistemas.
 
+##📌Próximos projetos:
+
+- ToDoList (Lista de tarefas) com funções para organizar suas tarefas. Adicionando, removendo e marcando como concluídas.
+  Status: Em Progresso.
+- Calculadora com funções básicas (somar,dividir,multiplicar e subtrair). 
+  Status: Em Progresso.
+  
 ---
 
 
